@@ -3,13 +3,10 @@ html, body {
   padding: 0;
   /* background-image: url("https://media.giphy.com/media/KTIlsbZL5TrS8/giphy.gif"); */
   background-image: url("https://media.giphy.com/media/xT9IgzaatTKTNyEauk/giphy.gif");
-  /* background-repeat: no-repeat; */
   background-size: contain;
-  /* font-family: 'Baloo Bhai', cursive; */
   font-family: 'Maven Pro', sans-serif;
-
   text-align: center;
-    color: white;
+  color: white;
 }
 canvas {
   display: block;
@@ -17,4 +14,13 @@ canvas {
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
+}
+h1 span {
+    background-color: black;
+}
+h2 span {
+    background-color: black;
+}
+p span {
+  background-color: black;
 }
